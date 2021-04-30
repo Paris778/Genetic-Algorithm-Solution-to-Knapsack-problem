@@ -1,4 +1,4 @@
-# Genetic-Algorthm-Solution-to-Knapsack-problem
+# Genetic-Algortihm-Solution-to-Knapsack-problem
 A Genetic Algorithm Solution to the Knapsack Problem in MatLab using the elitist selection process
 
 ## The Knapsack Problem
