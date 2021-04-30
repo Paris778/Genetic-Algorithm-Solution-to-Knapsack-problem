@@ -9,7 +9,7 @@ order to keep the total units of space to within a specified maximum, while tryi
 total amount of money your items are worth.
 The units of space and the amount for each of the 16 items are:
 
-<Image> 
+![Alt text](https://github.com/Paris778/Genetic-Algorthm-Solution-to-Knapsack-problem/blob/main/ScreenShots/Capture.JPG "ItemsAndValues")
 
 For example, if you were to take the 1st, 2nd and 4th items, the total units of space would be 14, and
 the total value would be £10.6. You have to take a set of items so that the total units of space is 40
